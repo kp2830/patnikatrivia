@@ -71,7 +71,7 @@
 
   font-weight: 900;
   border: #56a5eb;
-  -webkit-text-stroke: 0.2rem black;
+  -webkit-text-stroke: 0.02rem black;
 }
 @media (max-width: 768px) {
   .choice-prefix {
@@ -81,7 +81,7 @@
 
   .choice-text {
     padding: 1rem; /* Adjust padding for smaller screens */
-    font-size: 2.6rem; /* Adjust font size for smaller screens */
+    font-size: 4.2rem; /* Adjust font size for smaller screens */
   }
 
   .hud-prefix {
@@ -89,7 +89,7 @@
   }
 
   .hud-main-text {
-    font-size: 2.4rem; /* Adjust font size for smaller screens */
+    font-size: 4.4rem; /* Adjust font size for smaller screens */
   }
 
   #progressBar {
@@ -99,7 +99,7 @@
   }
 
   #question {
-    font-size: 3.4rem;
-    -webkit-text-stroke: 0.1rem black; /* Adjust font size for question text on smaller screens */
+    font-size: 4.4rem;
+    -webkit-text-stroke: 0.01rem black; /* Adjust font size for question text on smaller screens */
   }
 }
