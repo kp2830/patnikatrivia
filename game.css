@@ -100,6 +100,6 @@
 
   #question {
     font-size: 4.4rem;
-    -webkit-text-stroke: 0.01rem black; /* Adjust font size for question text on smaller screens */
+    -webkit-text-stroke: 0rem black; /* Adjust font size for question text on smaller screens */
   }
 }
