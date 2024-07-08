@@ -151,7 +151,7 @@ input::placeholder {
   h1 {
     font-size: 6.8rem; /* Adjust heading size for smaller screens */
     margin-bottom: 2rem; /* Adjust margin bottom for smaller screens */
-    -webkit-text-stroke: 0.03rem black;
+    -webkit-text-stroke: 0.1rem black;
 
   }
 
