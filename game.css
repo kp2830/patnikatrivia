@@ -81,11 +81,11 @@
 
   .choice-text {
     padding: 1rem; /* Adjust padding for smaller screens */
-    font-size: 4.2rem; /* Adjust font size for smaller screens */
+    font-size: 2.9rem; /* Adjust font size for smaller screens */
   }
 
   .hud-prefix {
-    font-size: 3.8rem; /* Adjust font size for smaller screens */
+    font-size: 3.4rem; /* Adjust font size for smaller screens */
   }
 
   .hud-main-text {
@@ -100,6 +100,6 @@
 
   #question {
     font-size: 4.4rem;
-    -webkit-text-stroke: 0rem black; /* Adjust font size for question text on smaller screens */
+    -webkit-text-stroke: 0.1rem black; /* Adjust font size for question text on smaller screens */
   }
 }
