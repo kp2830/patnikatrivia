@@ -1,122 +1,122 @@
 [
   {
-    "question": "What was the main reason you chose LNMIIT?",
-    "choice1": "It was the only option available",
-    "choice2": "For the campus experience",
-    "choice3": "Coding culture and peer network",
-    "choice4": "Placement statistics",
+    "question": "Why is LNMIIT considered a leading institute for Computer Science?",
+    "choice1": "Highly qualified faculty and research environment",
+    "choice2": "Student-led innovation and coding culture",
+    "choice3": "Strong placement statistics",
+    "choice4": "All of the above",
+    "answer": 4
+  },
+  {
+    "question": "Which of the following is LNMIIT’s annual cultural fest?",
+    "choice1": "Plinth",
+    "choice2": "Desportivos",
+    "choice3": "Vivacity",
+    "choice4": "Technika",
     "answer": 3
   },
   {
-    "question": "Which is considered the most vibrant fest at LNMIIT?",
-    "choice1": "Vivacity",
-    "choice2": "Plinth",
+    "question": "Which fest at LNMIIT focuses on technical innovation and competitions?",
+    "choice1": "Plinth",
+    "choice2": "Vivacity",
     "choice3": "Desportivos",
-    "choice4": "Vivacity and Desportivos",
-    "answer": 4
-  },
-  {
-    "question": "What should you avoid during your first introduction to a senior?",
-    "choice1": "Looking down while talking",
-    "choice2": "Asking which language to use",
-    "choice3": "Making hand signs",
-    "choice4": "Saying you're not comfortable",
+    "choice4": "Eureka",
     "answer": 1
-  },
-  {
-    "question": "What is the primary role of Club FUNDO?",
-    "choice1": "Organizing fun and engaging activities",
-    "choice2": "A dance performance group",
-    "choice3": "Musical concerts and gigs",
-    "choice4": "Inactive club",
-    "answer": 1
-  },
-  {
-    "question": "Which canteen shop owner is known for being student-friendly?",
-    "choice1": "Baba's Shop",
-    "choice2": "Vinayak",
-    "choice3": "Amul",
-    "choice4": "None of them",
-    "answer": 1
-  },
-  {
-    "question": "Who among the following do most juniors secretly admire?",
-    "choice1": "C-Cell mentors",
-    "choice2": "Club coordinators",
-    "choice3": "No one",
-    "choice4": "We admire but silently",
-    "answer": 4
-  },
-  {
-    "question": "What detail is generally not included in a formal introduction?",
-    "choice1": "Your name",
-    "choice2": "Father's name",
-    "choice3": "College name",
-    "choice4": "Your percentile",
-    "answer": 2
   },
   {
     "question": "Who is the current Director of LNMIIT (as of 2024)?",
     "choice1": "Dr. Rahul Banerjee",
     "choice2": "Prof. Sandeep Saini",
-    "choice3": "Poonam Gera",
-    "choice4": "Prof. Prahalad",
+    "choice3": "Dr. Poonam Gera",
+    "choice4": "Dr. Anurag Bhatnagar",
     "answer": 1
   },
   {
-    "question": "What is the most useful resource for navigating college life?",
-    "choice1": "Coding knowledge",
-    "choice2": "Faculty interactions",
-    "choice3": "Senior guidance",
-    "choice4": "Nothing in particular",
-    "answer": 3
+    "question": "What is the primary function of the Centre for Career Development (CCD) at LNMIIT?",
+    "choice1": "Organizing cultural events",
+    "choice2": "Managing campus placements and internships",
+    "choice3": "Student counselling and wellness",
+    "choice4": "Handling hostel management",
+    "answer": 2
   },
   {
-    "question": "How many cultural clubs are currently active in LNMIIT?",
-    "choice1": "11",
-    "choice2": "10",
-    "choice3": "12",
-    "choice4": "Not sure",
+    "question": "How many academic departments does LNMIIT have?",
+    "choice1": "Three",
+    "choice2": "Four",
+    "choice3": "Five",
+    "choice4": "Six",
+    "answer": 2
+  },
+  {
+    "question": "Which student body coordinates club activities and events at LNMIIT?",
+    "choice1": "Academic Council",
+    "choice2": "Student Gymkhana",
+    "choice3": "Cultural Affairs Committee",
+    "choice4": "Plinth Council",
+    "answer": 2
+  },
+  {
+    "question": "What facilities are provided in LNMIIT hostels?",
+    "choice1": "Wi-Fi, laundry, and reading rooms",
+    "choice2": "AC rooms for all students",
+    "choice3": "Gaming consoles",
+    "choice4": "None of the above",
     "answer": 1
   },
   {
-    "question": "What is the primary focus of Club Aveg?",
-    "choice1": "Theatre and acting",
-    "choice2": "Street plays (Nukkad Natak)",
-    "choice3": "Dance performances",
-    "choice4": "Photography and videography",
-    "answer": 2
-  },
-  {
-    "question": "If a senior asks you to mark a dot on your forehead, what's the safest response?",
-    "choice1": "As high as possible",
-    "choice2": "As low as possible",
-    "choice3": "At waist level",
-    "choice4": "Follow their instructions respectfully",
-    "answer": 4
-  },
-  {
-    "question": "What typically begins a fresher's self-introduction?",
-    "choice1": "My name is...",
-    "choice2": "My father’s name is...",
-    "choice3": "I was born in...",
-    "choice4": "I don’t know the format",
+    "question": "Which department handles student counselling and mental wellness?",
+    "choice1": "Health Centre",
+    "choice2": "Student Gymkhana",
+    "choice3": "Wellness Cell",
+    "choice4": "CCD",
     "answer": 3
   },
   {
-    "question": "Who are the most helpful seniors during your journey?",
-    "choice1": "Those with high CGPA",
-    "choice2": "Those who guide you later on",
-    "choice3": "Those who take you to thadi",
-    "choice4": "All seniors are helpful",
+    "question": "Which club at LNMIIT is associated with street theatre performances?",
+    "choice1": "Rendition",
+    "choice2": "Aveg",
+    "choice3": "Kronos",
+    "choice4": "TechKnights",
     "answer": 2
   },
   {
-    "question": "Which of these are actual locations you’ll visit at LNMIIT?",
-    "choice1": "Thadi",
-    "choice2": "GHC building",
-    "choice3": "Great Wall",
-    "choice4": "Medical Clinic",
+    "question": "What is the role of the Institute Innovation Council (IIC) at LNMIIT?",
+    "choice1": "To promote entrepreneurship and innovation",
+    "choice2": "To manage hostel rules",
+    "choice3": "To organize annual sports meets",
+    "choice4": "To manage admissions",
+    "answer": 1
+  },
+  {
+    "question": "What is 'Desportivos' known for at LNMIIT?",
+    "choice1": "Annual literary event",
+    "choice2": "Cultural music fest",
+    "choice3": "Annual sports festival",
+    "choice4": "Tech hackathon",
+    "answer": 3
+  },
+  {
+    "question": "What services are offered at LNMIIT’s Central Library?",
+    "choice1": "Book borrowing and reading space",
+    "choice2": "Digital library and research access",
+    "choice3": "Study rooms and printing facility",
+    "choice4": "All of the above",
     "answer": 4
+  },
+  {
+    "question": "Which programming club is known for coding competitions and mentorship?",
+    "choice1": "TechKnights",
+    "choice2": "LnmiCoder",
+    "choice3": "Bytecrunch",
+    "choice4": "CodeLoop",
+    "answer": 2
+  },
+  {
+    "question": "What is the first step in resolving academic grievances at LNMIIT?",
+    "choice1": "Contacting the Dean of Academics directly",
+    "choice2": "Speaking to the course instructor or faculty advisor",
+    "choice3": "Filing a complaint on the LNMIIT portal",
+    "choice4": "Discussing with peers and resolving informally",
+    "answer": 2
   }
 ]
